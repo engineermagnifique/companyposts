@@ -8,7 +8,7 @@ A Flutter app to manage media posts offline using SQLite.
 
 | Home | Add |
 | ---- | ---- |
-| ![Home](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Home.png) | ![Home2](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/NewPost.png) |
+| ![Home](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Home.png) | ![Home2](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Newpost.png) |
 
 | View | Delete |
 | ---- | ------ |
@@ -16,7 +16,7 @@ A Flutter app to manage media posts offline using SQLite.
 
 | SaveChanges | Deleted |
 | ----------- | ------- |
-| ![Save](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/SaveChanges.png) | ![Deleted](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/deleted.png) |
+| ![Save](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Savechanges.png) | ![Deleted](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/deleted.png) |
 ---
 
 ## Project Structure
