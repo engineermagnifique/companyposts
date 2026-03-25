@@ -8,7 +8,7 @@ A Flutter app to manage media posts offline using SQLite.
 
 | Home | Add |
 | ---- | ---- |
-| ![Home](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Home.png) | ![Home2](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/New%20post.png) |
+| ![Home](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/Home.png) | ![Home2](https://raw.githubusercontent.com/engineermagnifique/companyposts/main/demo/NewPost.png) |
 
 | View | Delete |
 | ---- | ------ |
